@@ -1,2 +1,2 @@
 # RS_Projeto
-Projeto da cadera de Redes e Serviços
+Projeto da cadeira de Redes e Serviços
